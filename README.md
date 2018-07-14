@@ -15,3 +15,23 @@ Here you will find all the challenges we made in different categories :
 
 
 You will also find write-ups of some challenges written by our team members that participated in the CTF
+
+
+ShellmatesMiniCTF2018
+├──-Cryptography
+│ -├──-encrypted.txt
+│ -└──-FenceIt.txt
+├──-Networking
+│ -├──-[Shellmates Mini-CTF 2018][Networking][Foren4].pdf
+│ -└──-foren3.pcap
+│ -└──-foren4.pcap
+├──-ReverseEngineering
+│ -├──-BypassME
+│ -├──-EASY
+│ -└──-SimpleCheck
+├──-Steganography
+│ -├──-steg1.wav
+│ -├──-steg2.png
+└──-Web
+----├──-[Shellmates Mini-CTF 2018][Web][Guess_the_token_1].pdf
+----├──-[Shellmates Mini-CTF 2018][Web][Guess_the_token_2].pdf
