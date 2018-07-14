@@ -28,15 +28,29 @@ ShellmatesMiniCTF2018
 ├──-Networking
 
 │ -├──-[Shellmates Mini-CTF 2018][Networking][Foren4].pdf
+
 │ -└──-foren3.pcap
+
 │ -└──-foren4.pcap
+
 ├──-ReverseEngineering
+
 │ -├──-BypassME
+
 │ -├──-EASY
+
 │ -└──-SimpleCheck
+
 ├──-Steganography
+
 │ -├──-steg1.wav
+
 │ -├──-steg2.png
+
 └──-Web
+
 ----├──-[Shellmates Mini-CTF 2018][Web][Guess_the_token_1].pdf
+
 ----├──-[Shellmates Mini-CTF 2018][Web][Guess_the_token_2].pdf
+
+
