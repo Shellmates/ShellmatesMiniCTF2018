@@ -42,6 +42,12 @@ ShellmatesMiniCTF2018
 
 │ -├──-EASY
 
+│ -├──-[Shellmates-Mini-CTF-2018_Writeup_Reverse_BypassME.pdf]
+
+│ -├──-[Shellmates-Mini-CTF-2018_Writeup_Reverse_EASY.pdf]
+
+│ -├──-[Shellmates-Mini-CTF-2018_Writeup_Reverse_SimpleCheck.pdf]
+
 │ -└──-SimpleCheck
 
 ├──-Steganography
